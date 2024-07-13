@@ -3,5 +3,5 @@ import 'package:flutter/widgets.dart';
 import 'package:quizapp/quiz.dart';
 
 void main() {
-  runApp(Quiz());
+  runApp(const Quiz());
 }
